@@ -445,8 +445,8 @@ This project is developed for academic and educational purposes.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/SeismoGuard-AI.git
-cd SeismoGuard-AI
+git clone https://github.com/aliqaiser1123/EarthQuakePredictor_Ai_Agent.git
+cd EarthQuakePredictor_Ai_Agent
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
