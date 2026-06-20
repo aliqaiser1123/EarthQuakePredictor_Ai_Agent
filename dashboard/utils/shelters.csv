@@ -1,0 +1,6 @@
+name,capacity,road,medical,latitude,longitude
+Central Shelter,1200,open,True,33.901,72.475
+North Shelter,800,open,True,33.890,72.470
+South Shelter,1500,closed,True,33.895,72.481
+East Shelter,2000,open,True,33.899,72.485
+West Shelter,700,open,False,33.888,72.465
